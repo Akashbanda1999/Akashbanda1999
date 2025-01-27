@@ -1,20 +1,12 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+Hi, I'm Akash Banda, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
-
-
----
-
-
-![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-banda-7aa0b1244)
 
 ---
 
@@ -23,14 +15,6 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
 |----------|----------|----------|----------|------|------|------|-------|------|------|-------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="55" height="55"/>| <img src="https://github.com/user-attachments/assets/a885e80a-964f-4e75-a4a6-27a063667ec7" alt="AWS" title="AWS" width="55" height="55" /> | 
-
-
-
-
-
----
-
-![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
 ---
 
@@ -42,22 +26,13 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
-
----
-
-## 📝 Latest Blog Posts
-
-- [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Docker 🐋Networking Essentials: Boost Your Container Communication 🔁 Skills](https://www.linkedin.com/pulse/docker-networking-essentials-boost-your-container-skills-dhoble-kmrjc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
-- [Streamline Your Cloud 🌩️Storage Strategy with AWS S3](https://www.linkedin.com/pulse/streamline-your-cloud-storage-strategy-aws-s3-classes-abhipray-dhoble-8frcc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
-- [Understanding Docker Exit ❌ Codes](https://www.linkedin.com/pulse/understanding-docker-exit-codesmastering-insights-flawless-dhoble-m5vlc?trackingId=WyDEGIUmTT6kRviuN0fGZw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BSTvtWpEGSjq9zkazyqsaPQ%3D%3D)
+![Visitor Count](https://komarev.com/ghpvc/?username=Akashbanda1999&color=green&style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [🎮 Project Super Mario](https://github.com/abhipraydhoble/Project-Super-Mario)
+### [🎮 Project Super Mario](https://github.com/Akashbanda1999/Mario-Game.git)
 A nostalgic game inspired by Super Mario, built to explore game development fundamentals.
 
 - **Technologies**: HTML5, CSS3, JavaScript
@@ -68,20 +43,7 @@ A nostalgic game inspired by Super Mario, built to explore game development fund
 
 ---
 
-### [🛡️ Project InsureMe](https://github.com/abhipraydhoble/Project-InsureMe)
-An insurance management platform for managing policies, claims, and customer details.
-
-- **Frontend**: React.js
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Features**:
-  - Policy creation and management
-  - User authentication and role-based access
-  - Claims tracking with detailed analytics
-
----
-
-### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
+### [📦 Project Angular App AWS](https://github.com/Akashbanda1999/Angular-project-docker.git)
 A serverless Angular application deployed on AWS infrastructure.
 
 - **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
@@ -92,7 +54,7 @@ A serverless Angular application deployed on AWS infrastructure.
 
 ---
 
-### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
+### [📚 Project Student App](https://github.com/Akashbanda1999/Docker_Threetier.git)
 A student management system to handle registrations, grades, and profiles.
 
 - **Tech Stack**: Java Spring Boot, Angular
@@ -103,7 +65,7 @@ A student management system to handle registrations, grades, and profiles.
 
 ---
 
-### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
+### [🏛️ Project 3-Tier Student App](https://github.com/Akashbanda1999/3-tier-student.git)
 A robust 3-tier architecture for a student management application.
 
 - **Architecture**:
@@ -117,7 +79,7 @@ A robust 3-tier architecture for a student management application.
 
 ---
 
-### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
+### [🎥 Netflix Clone](https://github.com/Akashbanda1999/Netflix.git)
 A Netflix-inspired application with movie browsing and streaming features.
 
 - **Tech Stack**: React.js, TMDB API
