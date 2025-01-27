@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Akash Banda
+Hi, I'm Akash Banda, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 🌱 I’m currently pursuing DevOps
 
