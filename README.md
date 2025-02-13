@@ -43,7 +43,7 @@ A nostalgic game inspired by Super Mario, built to explore game development fund
 
 ---
 
-### [📦 Project Angular App AWS](https://github.com/Akashbanda1999/Angular-project-docker.git)
+### [📦 Project Angular App AWS](https://github.com/Akashbanda1999/Project-Angular-App-AWS.git)
 A serverless Angular application deployed on AWS infrastructure.
 
 - **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
