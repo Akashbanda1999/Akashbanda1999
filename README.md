@@ -89,4 +89,13 @@ A Netflix-inspired application with movie browsing and streaming features.
 
 ---
 
+### [🔒 Site-To-Site VPN](https://github.com/Akashbanda1999/VPN-AWS.git)
+A Virtual Private Network (VPN) is a specialized virtual network that provides a secure connection over the Internet.
+- **Tech Stack**: AWS EC2, VPC.
+- **Features**:
+  - A service that helps you stay private online.
+  - It encrypts your internet traffic and hides your online identity, making it significantly harder for third parties to access your data or monitor your online activities.
+  - AWS Site-to-Site VPN connections are utilizing the public Internet to connect between AWS and on-premise networks “in general” due to the less cost.
+
+
 
